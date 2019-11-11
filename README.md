@@ -8,4 +8,4 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 ### Screengrab
 
-![ml.gif](Databricks Notebook Scrollthrough)
+![Databricks Notebook Scrollthrough](ml.gif)
